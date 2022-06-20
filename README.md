@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swastik
 - 👀 I’m interested in Web devlopment
-- 🌱 I’m currently learning html,css and javascript
+- 🌱 I’m currently learning web dev and python
 
 
 <!---
