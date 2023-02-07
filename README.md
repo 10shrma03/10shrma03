@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swastik
-- 🌱 I’m currently learning Data structure and algorithms using C programming language
+- 🌱 I’m currently learning Web dev and Java
 
 
 <!---
